@@ -21,10 +21,6 @@ DerivedData
 *.ipa
 *.xcuserstate
 project.xcworkspace
-!default.xcworkspace
-*.xcscmblueprint
-
-release_ios
 
 # Android/IntelliJ
 #
@@ -32,11 +28,7 @@ build/
 .idea
 .gradle
 local.properties
-.settings
-.project
-.classpath
 *.iml
-captures/
 
 # node.js
 #
@@ -47,6 +39,7 @@ yarn-error.log
 # BUCK
 buck-out/
 \.buckd/
+*.keystore
 
 # fastlane
 #
@@ -61,11 +54,3 @@ buck-out/
 
 # Bundle artifact
 *.jsbundle
-.watchmanconfig
-.gitattributes
-.babelrc
-.buckconfig
-.flowconfig
-
-# Visual Studio Code
-.vscode
