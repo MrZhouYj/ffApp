@@ -12,8 +12,8 @@ import {Platform, StyleSheet, Text, View} from 'react-native';
 const instructions = Platform.select({
   ios: 'Press Cmd+R to reload,\n' + 'Cmd+D or shake for dev menu',
   android:
-    'Double t999999yboard to reload,\n' +
-    'Shake or press menu button for dev menu',
+    'Double wewewe to reload,\n' +
+    'Shake or press msdsdsdbutton for dev menu',
 });
 
 type Props = {};
